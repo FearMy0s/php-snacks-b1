@@ -5,26 +5,26 @@ $Match = [
         'Host' => 'CucchiaioTeam',
         'HomePoint' => 23,
         'HostPoint' => 25,
-    ]
+    ],
     [
         'Home' => 'PannaTeam',
         'Host' => 'CavoloTeam',
         'HomePoint' => 20,
         'HostPoint' => 21,
-    ]
+    ],
     [
         'Home' => 'PrimoTeam',
         'Host' => 'CuculoTeam',
         'HomePoint' => 25,
         'HostPoint' => 22,
-    ]
+    ],
     [
         'Home' => 'PenaTeam',
         'Host' => 'CrunchTeam',
         'HomePoint' => 27,
         'HostPoint' => 21,
-    ]
-    ]
+    ],
+];
 ?>
 <!DOCTYPE html>
 <html lang="en">
